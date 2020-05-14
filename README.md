@@ -7,7 +7,7 @@
 - Achieved 74% accuracy from the model.
 
 **How**:
-- Used Flask to scrape Fortune 500 tickers from Wikipedia and get their information from Yahoo finance.
+- Used Beautiful Soup to scrape Fortune 500 tickers from Wikipedia and get their information from Yahoo finance.
 - Verified strong correlation between Fortune 500 stocks through a heat map in Matplotlib
 - Used Voting Classifier from TensorFlow, to build the machine learning model.
 
