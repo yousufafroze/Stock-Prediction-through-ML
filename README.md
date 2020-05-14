@@ -14,7 +14,7 @@
 **Additional Details**
 - Made addtional columns for percent change in price day_1, ... day_7
 - Used the additional columns to make the target attribute of -1, 0, 1 -> buy/sell/hold rating.
-- If the percentage change would exceed a certain threshold, it would get a buy/sell rating. Else a hold rating.
+- If the percentage change would exceed a certain threshold, it would give a buy/sell rating. Else a hold rating.
 
 
 **Difficulties**
