@@ -17,10 +17,14 @@
 - If the percentage change would exceed a certain threshold, it would give a buy/sell rating. Else a hold rating.
 - Used Linear Support Vector Classifier, K Neighbours Classifier, Random Forest Classifier in Voting Classifier.
   - Tried single classifiers. Didn't give an accuracy more than Ensemble Method. Even the proportion of buy/sell/hold would be wrong. 
-  
- 
-  
-
+  - Had the following options for classifiers:
+        - Linear Classfier: Logistic Regression and Naive Bayes Classifier - We considered, features as dependent, hence not used.
+        - Nearest Neighbor - Chosen.
+        - Support Vector Machines - Chosen.
+        - Decision Trees - Random forest accounts for decision trees.
+        - Random Forest - Chosen. It corrects for decision trees’ habit of over fitting to their training set.
+        - Neural Networks - Too much data manipulation needed like encoding, array dimensions etc.
+    
 
 **Difficulties**
 - All fortune 500 tickers not available in Yahoo for the given starting and ending time. (Made a list of N/A tickers to solve this problem)
