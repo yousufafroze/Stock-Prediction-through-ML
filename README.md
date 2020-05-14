@@ -9,7 +9,7 @@
 **How**:
 - Used Beautiful Soup to scrape Fortune 500 tickers from Wikipedia and get their information from Yahoo finance.
 - Verified strong correlation between Fortune 500 stocks through a heat map in Matplotlib
-- Used Voting Classifier from TensorFlow, to build the machine learning model.
+- Used Ensemble Method, Voting Classifier from TensorFlow, to build the machine learning model.
 
 **Additional Details**
 - Made addtional columns for percent change in price day_1, ... day_7
