@@ -1,7 +1,7 @@
 # Stock-Prediction-through-ML
 
 **Idea**: 
-Fortune 500 stocks follow the same trend as each other. Can we benefit from the lag in between the stocks before their prices catch up?
+- Fortune 500 stocks follow the same trend as each other. Can we benefit from the lag in between the stocks before their prices catch up?
 
 **What**: 
 - Achieved 74% accuracy from the model.
