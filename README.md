@@ -22,6 +22,12 @@ Fortune 500 stocks follow the same trend as each other. Can we benefit from the 
 - Had to choose 7 days as a window against which correlation is considered useful. Else, the accuracy would fall.
 - Had to increase the volatility threshold used to give a buy/sell rating to account for unreasoned deviation.
 
+*Correlation Heat Map*
+> ![alt text](https://github.com/yousufafroze/Stock-Prediction-through-ML/blob/master/visualization_1.png)
+
+*Zoomed in Heat Map*
+> ![alt text](https://github.com/yousufafroze/Stock-Prediction-through-ML/blob/master/visualization_2.png)
+
 
 
 
